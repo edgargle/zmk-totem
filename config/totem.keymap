@@ -229,10 +229,10 @@
 
         symbol {
             bindings = <
-            &kp EXCLAMATION  &kp AT_SIGN  &kp POUND              &kp DOLLAR       &kp PERCENT          &kp CARET         &kp AMPERSAND   &kp ASTERISK          &kp MINUS         &kp EQUAL
-            &kp GRAVE        &kp TILDE    &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET    &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp SEMICOLON     &kp APOS
-&kp LSHIFT  &kp BACKSLASH    &none        &none                  &none            &none                &none             &kp PIPE        &kp LESS_THAN         &kp GREATER_THAN  &kp QUESTION  &kp RIGHT_SHIFT
-                                          &trans                 &trans           &trans               &trans            &trans          &trans
+            &kp EXCLAMATION  &kp AT_SIGN    &kp POUND              &kp DOLLAR       &kp PERCENT          &kp CARET         &kp AMPERSAND   &kp ASTERISK          &kp MINUS         &kp EQUAL
+            &kp GRAVE        &kp BACKSLASH  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET    &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp SEMICOLON     &kp APOS
+&kp LSHIFT  &none            &none          &none                  &none            &none                &none             &none           &kp LESS_THAN         &kp GREATER_THAN  &kp QUESTION  &kp RIGHT_SHIFT
+                                            &trans                 &trans           &trans               &trans            &trans          &trans
             >;
         };
 
