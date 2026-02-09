@@ -70,12 +70,6 @@
             layers = <0 1 5 7>;
         };
 
-        soft_off {
-            bindings = <&soft_off>;
-            key-positions = <24 27>;
-            layers = <8>;
-        };
-
         league_six {
             bindings = <&kp N6>;
             key-positions = <3 4>;
